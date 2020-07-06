@@ -1,0 +1,58 @@
+Loading previously saved game.
+------------------------------------------------------------------------------------
+----------------------------------Welcome to Watan!---------------------------------
+------------------------------------------------------------------------------------
+
+                                   | 0|--BA--| 1|                                   
+                                   /            \                                   
+                                 BA       0     BA                                  
+                                 /     CAFFEINE   \                                 
+                    | 2|--BA--| 3|        3       | 4|-- 4--| 5|                    
+                    /            \                /            \                    
+                  BA       1     BA             BA       2      8                   
+                  /     LAB        \            /     STUDY      \                  
+     | 6|--BA--| 7|       10       | 8|--BA--| 9|        5       |10|--11--|11|     
+     /            \                /            \                /            \     
+   BA       3     BA             BA       4     15             16       5     17    
+   /     LAB        \            /     NETFLIX    \            /     STUDY      \   
+|12|        4       |13|--BA--|14|        7       |15|--19--|OM|       10       |17|
+   \                /            \                /            \                /   
+   BA             BA       6     BA             23       7     OA             25    
+     \            /     LECTURE    \            /     CAFFEINE   \            /     
+     |18|--BA--|19|       11       |YA|--YA--|21|        3       |22|--28--|23|     
+     /            \                /            \                /            \     
+   BA       8     BA             BA       9     YA             OA      10     34    
+   /     STUDY      \            /     CAFFEINE   \            /     CAFFEINE   \   
+|24|        8       |BF|--BA--|26|        2       |YA|--36--|28|        6       |29|
+   \                /            \     GEESE      /            \                /   
+   BA             BA      11     BA             40      12     OA             42    
+     \            /     LAB        \            /     TUTORIAL   \            /     
+     |BA|--BA--|31|        8       |RM|--44--|33|       12       |34|--45--|35|     
+     /            \                /            \                /            \     
+   BA      13     BA             RA      14     49             OA      15     OA    
+   /     LAB        \            /     TUTORIAL   \            /     LECTURE    \   
+|36|        5       |BF|--BA--|38|       11       |39|--53--|OA|        4       |41|
+   \                /            \                /            \                /   
+   BA             BA      16     RA             57      17     OA             OA    
+     \            /     TUTORIAL   \            /     LECTURE    \            /     
+     |42|--BA--|43|        6       |RA|--BA--|45|        9       |46|--OA--|47|     
+                  \                /            \                /                  
+                  BA             RA      18     BA             66                   
+                    \            /     LECTURE    \            /                    
+                    |48|--BA--|49|        9       |50|--68--|51|                    
+                                 \                /                                 
+                                 BA             BA                                  
+                                   \            /                                   
+                                   |52|--BA--|53|                                   
+                                                                                    
+Student Blue's turn.
+Blue has 7 victory points, 49 caffeines, 58 labs, 58 lectures, 215 studies, and 19 tutorials.
+> [0mRolled fair: 11
+Student Blue gained:
+3 LECTURE
+Student Red gained:
+3 TUTORIAL
+Student Yellow gained:
+1 LECTURE
+
+> [0mSaving game...

@@ -1,0 +1,17 @@
+load
+4
+roll
+complete -1
+complete 54
+complete 19
+complete 31
+next
+load 4 roll
+status
+next load 4 roll
+complete 40
+status
+board
+next load 12 roll
+complete 8
+status

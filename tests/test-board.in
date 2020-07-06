@@ -1,0 +1,26 @@
+8
+9
+4
+10
+17
+55
+8
+29
+34
+39
+25
+load 5
+roll
+next 
+load 7 
+roll 
+9
+next 
+load 3
+status
+board
+help
+next
+load 8 
+roll
+save /data/testsave1.txt

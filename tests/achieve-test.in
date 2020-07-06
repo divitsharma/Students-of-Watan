@@ -1,0 +1,68 @@
+load 5
+roll
+next 
+load 7 
+roll 
+9
+next 
+load 3
+roll
+achieve 58
+achieve 62 
+achieve 11
+board
+achieve 59
+board
+status
+achieve 51 
+board
+status
+achieve 53
+achieve 57
+board 
+status
+next
+load 5 
+roll
+next
+load 8 
+roll
+achieve 55
+achieve 60
+achieve 54
+achieve 46
+achieve 37
+achieve 30
+achieve 21
+achieve 13
+achieve 29
+achieve 26
+achieve 20
+achieve 12
+achieve 9
+achieve 5
+achieve 5
+achieve 3
+achieve 6
+achieve 1
+achieve 0
+achieve 2
+achieve 7
+achieve 10
+achieve 14
+achieve 18
+achieve 22
+achieve 31
+achieve 35
+achieve 39
+achieve 52
+achieve 63
+achieve 67
+achieve 69
+achieve 71
+achieve 70
+achieve 65
+achieve 61
+board 
+status
+next

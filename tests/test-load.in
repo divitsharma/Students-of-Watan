@@ -1,0 +1,21 @@
+load
+4
+roll
+status
+criteria
+next
+load
+4
+roll
+criteria
+next
+load
+4
+roll
+criteria
+next
+load
+4
+roll
+criteria
+save tests/test-save.sv

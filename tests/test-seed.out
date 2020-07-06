@@ -1,0 +1,5 @@
+// run three times with diff seed, do roll three times each time
+// def. roll is fair is shown
+
+45: 11,8,6
+450: 6,5,7

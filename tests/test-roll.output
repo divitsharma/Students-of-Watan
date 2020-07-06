@@ -1,0 +1,18 @@
+# expected output of status/roll cmd
+10:
+Orange gained 2 STUDY
+
+2: #checking mult criteria and M
+Student Red gained:
+2 CAFFEINE
+Student Yellow gained:
+2 CAFFEINE
+
+8: # checking geese
+Blue: 6 LAB
+Red: 2 LAB
+
+7: move geese
+4: no students
+roll again: rolled loaded
+fair

@@ -1,0 +1,28 @@
+load 4 roll
+status
+next
+load 7 roll
+
+
+
+
+1
+status
+board
+next
+load 7 roll
+1
+-1
+100
+9
+
+Red
+next
+load 7 roll
+11
+Blue
+board
+next
+load 8 roll
+next
+load 2 roll
